@@ -23,7 +23,7 @@ def base():
 
 
 #if __name__ == '__main__':
-    #t = threading.Thread(name="flaskThread", target=app.run, args=('0.0.0.0', 8080))
+    ##t = threading.Thread(name="flaskThread", target=app.run, args=('0.0.0.0', 8080))
 
 
 GPIO.setwarnings(False)
